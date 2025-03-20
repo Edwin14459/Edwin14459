@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
+<!--![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
-### 🚀 Proyectos destacados
-- 🟢 [Mi animación en Blender](https://github.com/tuusuario/mi-animacion)
-- 📊 [Visualizador 3D interactivo](https://github.com/tuusuario/visualizador-3d)
 
 
 
