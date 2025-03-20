@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
 
 
 
