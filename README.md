@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=tuusuario.tuusuario&left_color=blue&right_color=green)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=Edwin14459.Edwin14459&left_color=blue&right_color=green)
 
 
 
