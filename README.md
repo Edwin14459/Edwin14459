@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Contáctame](https://img.shields.io/badge/%F0%9F%93%A7-Contáctame-blue)](https://forms.gle/tu-enlace-a-google-form)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=tuusuario.tuusuario&left_color=blue&right_color=green)
+
 
 
 <!--
