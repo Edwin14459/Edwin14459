@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Edwin14459's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauI19bautista&show_icons=true&theme=radical)
+
 <!--[Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
 
