@@ -15,6 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=radical)  
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edwin14459&theme=radical)
 
 
 
