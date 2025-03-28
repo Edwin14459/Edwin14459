@@ -3,7 +3,8 @@
 
 ![Edwin14459](https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=radical)
 
-[Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
+
 
 
 
