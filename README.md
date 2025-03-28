@@ -6,6 +6,10 @@
 ![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=radical)
+
+
 
 
 
