@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-![Edwin14459](https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=radical)
 
 ![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
@@ -10,6 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=radical)
 
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 
