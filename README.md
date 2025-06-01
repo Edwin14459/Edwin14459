@@ -12,7 +12,7 @@
 
 ## 🏆 Lenguajes más usados  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es)
 
 ---
 ## 📊 Estadísticas
