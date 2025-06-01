@@ -1,8 +1,7 @@
 ## 👋 Hi there, I'm Edwin!  
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge" alt="Visitas" />
-</p>
+https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge" alt="Visitas" 
+
 
 ---
 
