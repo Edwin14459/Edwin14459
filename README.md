@@ -1,23 +1,33 @@
-## 👋 Hi there, I'm Edwin!  
-
-![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)  
-
----
-
-## 📊 GitHub Stats  
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight&locale=es)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge" alt="Visitas" />
+</p>
 
 ---
 
-## 🏆 Lenguajes más usados  
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" />
+</p>
 
 ---
-## 📊 Estadísticas
-[![Racha de contribuciones](https://streak-stats.demolab.com?user=Edwin14459&theme=tokyonight_duo&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+<h2 align="center">🏆 Lenguajes más usados</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
+</p>
+
 ---
+
+<h2 align="center">📊 Estadísticas de Racha</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Edwin14459&theme=tokyonight_duo&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  </a>
+</p>
+
 
 
 <!--## 🚀 Tecnologías & Herramientas  
