@@ -15,6 +15,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=radical)  
 
 ---
+## 📊 Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight&locale=es)
+
+[![Racha de contribuciones](https://streak-stats.demolab.com?user=Edwin14459&theme=tokyonight_duo&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es)
+
 
 <!--## 🚀 Tecnologías & Herramientas  
 
