@@ -19,7 +19,7 @@
 
 ---
 
-<h2 style="text-align: center;">📊 Estadísticas de Racha</h2>
+<!--##<h2 style="text-align: center;">📊 Estadísticas de Racha</h2>
 
 <p style="text-align: center;">
   <a href="https://git.io/streak-stats">
