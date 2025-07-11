@@ -29,9 +29,13 @@
 
 ---
 
-🤝 ¡Contactate Conmigo!
-📩 Correo: santiagoedwin051@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/edwin-l%C3%B3pez-713331327/
+<h2 align="center">🤝 ¡Contáctate Conmigo!</h2>
+
+<p align="center">
+  📩 <strong>Correo:</strong> <a href="mailto:santiagoedwin051@gmail.com">santiagoedwin051@gmail.com</a><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/edwin-l%C3%B3pez-713331327/" target="_blank">Edwin López</a>
+</p>
+
 
 
 
