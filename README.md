@@ -19,7 +19,7 @@
 
 ---
 
-<!--##<h2 style="text-align: center;">📊 Estadísticas de Racha</h2>
+<h2 style="text-align: center;">📊 Estadísticas de Racha</h2>
 
 <p style="text-align: center;">
   <a href="https://git.io/streak-stats">
@@ -27,6 +27,11 @@
   </a>
 </p>
 
+---
+
+🤝 ¡Contactate Conmigo!
+📩 Correo: santiagoedwin051@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/edwin-l%C3%B3pez-713331327/
 
 
 
