@@ -19,16 +19,6 @@
 
 ---
 
-<h2 style="text-align: center;">📊 Estadísticas de Racha</h2>
-
-<p style="text-align: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Edwin14459&theme=tokyonight_duo&hide_border=true&locale=es" alt="Racha de contribuciones" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🤝 ¡Contáctate Conmigo!</h2>
 
 <p align="center">
