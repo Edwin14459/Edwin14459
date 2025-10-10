@@ -28,6 +28,7 @@
 
 ---
 
+<!--
 ## 🚀 Lenguajes de programación
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -90,10 +91,6 @@
 ### 🎨 Diseño / Modelado 3D
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-
-
-
 
 
 <!--
