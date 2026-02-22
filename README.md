@@ -7,7 +7,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight&locale=es&cache_seconds=86400" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 <h2 align="center">🏆 Lenguajes más usados</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es&cache_seconds=86400" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight" />
 </p>
 
 ---
