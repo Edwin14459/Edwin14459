@@ -1,12 +1,13 @@
-## 👋 Hi there, I'm Edwin!  
-![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)  
+## 👋 Hi there, I'm Edwin!
+
+![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight&locale=es&cache_seconds=86400" />
 </p>
 
 ---
@@ -14,7 +15,7 @@
 <h2 align="center">🏆 Lenguajes más usados</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin14459&layout=compact&theme=tokyonight&locale=es&cache_seconds=86400" />
 </p>
 
 ---
@@ -22,8 +23,8 @@
 <h2 align="center">🤝 ¡Contáctate Conmigo!</h2>
 
 <p align="center">
-  📩 <strong>Correo:</strong> <a href="mailto:santiagoedwin051@gmail.com">santiagoedwin051@gmail.com</a><br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/edwin-l%C3%B3pez-713331327/" target="_blank">Edwin López</a>
+📩 <strong>Correo:</strong> santiagoedwin051@gmail.com  
+🔗 <strong>LinkedIn:</strong> Edwin López
 </p>
 
 ---
