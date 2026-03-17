@@ -6,8 +6,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight" />
-![](https://github-readme-stats.vercel.app/api?username=Edwin14459&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Edwin14459&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </p>
 ---
 
