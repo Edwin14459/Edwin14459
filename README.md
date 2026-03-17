@@ -3,7 +3,15 @@
 ![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwin14459&show_icons=true&theme=tokyonight" />
+![](https://github-readme-stats.vercel.app/api?username=Edwin14459&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</p>
+---
+
+<!--
 # 💫 About Me:
 Ingeniero de Sistemas apasionado por el desarrollo de software, con sólidos conocimientos en programación, bases de datos y arquitectura de sistemas. Me especializo en el diseño e implementación de soluciones eficientes y escalables, aplicando buenas prácticas de desarrollo y metodologías ágiles. En este repositorio comparto proyectos personales, colaborativos y académicos que reflejan mi compromiso con la mejora continua, el aprendizaje constante y la creación de tecnología que aporte valor real. 
 
