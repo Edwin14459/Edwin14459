@@ -3,13 +3,12 @@
 ![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=Edwin14459&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true
-
-h2>
----
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin14459&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
 <!--
 # 💫 About Me:
