@@ -2,7 +2,7 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=Edwin14459&label=Visitas&color=blue&style=for-the-badge)
 
----
+<!---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
